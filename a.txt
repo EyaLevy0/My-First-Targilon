@@ -1,2 +1,2 @@
-A whole new world
-trying the 3way merge
+trying the 3way merge now without pull request
+
