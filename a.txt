@@ -1,2 +1,1 @@
-A whole new world
-trying the 3way merge
+foo
